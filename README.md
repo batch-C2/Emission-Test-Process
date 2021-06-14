@@ -1,5 +1,5 @@
 # Emission-Test-Process
-<hr>
+
 STEP 1: 
 First the Emission Control Department needs to login to the Web app using their login credentials.
 <br>
